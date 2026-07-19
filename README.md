@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="img/NURFATIH62.png"  />
+  <img data-importer="image" height="200" src="img/NURFATIH621.png"  />
 </div>
 
 ###

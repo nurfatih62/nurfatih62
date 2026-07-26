@@ -30,29 +30,31 @@ Developer muda dari Yogyakarta yang lagi menempuh jurusan RPL/PPLG. Terbiasa mem
 
 **01 · Bahasa Pemrograman**
 <br>
-PHP · JavaScript · Python · C++ / C# · Java · Dart · HTML5 / CSS3
+![PHP](https://img.shields.io/badge/PHP-2B2B2B?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-F7B801?style=flat-square) ![Python](https://img.shields.io/badge/Python-C97B3D?style=flat-square) ![C++ / C#](https://img.shields.io/badge/C%2B%2B_%2F_C%23-2B2B2B?style=flat-square) ![Java](https://img.shields.io/badge/Java-F7B801?style=flat-square) ![Dart](https://img.shields.io/badge/Dart-C97B3D?style=flat-square) ![HTML5 / CSS3](https://img.shields.io/badge/HTML5_%2F_CSS3-2B2B2B?style=flat-square)
 
 **02 · Framework & Library**
 <br>
-Laravel 12 · CodeIgniter 4 · Flutter · React · Bootstrap
+![Laravel 12](https://img.shields.io/badge/Laravel_12-F7B801?style=flat-square) ![CodeIgniter 4](https://img.shields.io/badge/CodeIgniter_4-C97B3D?style=flat-square) ![Flutter](https://img.shields.io/badge/Flutter-2B2B2B?style=flat-square) ![React](https://img.shields.io/badge/React-F7B801?style=flat-square) ![Bootstrap](https://img.shields.io/badge/Bootstrap-C97B3D?style=flat-square)
 
 **03 · Database & Platform**
 <br>
-MySQL · Firebase · Supabase · Vercel · Google APIs · Arduino (IoT)
+![MySQL](https://img.shields.io/badge/MySQL-2B2B2B?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-F7B801?style=flat-square) ![Supabase](https://img.shields.io/badge/Supabase-C97B3D?style=flat-square) ![Vercel](https://img.shields.io/badge/Vercel-2B2B2B?style=flat-square) ![Google APIs](https://img.shields.io/badge/Google_APIs-F7B801?style=flat-square) ![Arduino (IoT)](https://img.shields.io/badge/Arduino_(IoT)-C97B3D?style=flat-square)
 
 **04 · Tools & Version Control**
 <br>
-Git & GitHub · Visual Studio Code · Android Studio · Windows · Linux Mint (dasar)
+![Git & GitHub](https://img.shields.io/badge/Git_&_GitHub-2B2B2B?style=flat-square) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-F7B801?style=flat-square) ![Android Studio](https://img.shields.io/badge/Android_Studio-C97B3D?style=flat-square) ![Windows](https://img.shields.io/badge/Windows-2B2B2B?style=flat-square) ![Linux Mint (dasar)](https://img.shields.io/badge/Linux_Mint_(dasar)-F7B801?style=flat-square)
 
 **05 · Desain & Multimedia**
 <br>
-UI/UX Design · Figma · Canva · CapCut · GIMP · OBS Studio
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX_Design-C97B3D?style=flat-square) ![Figma](https://img.shields.io/badge/Figma-2B2B2B?style=flat-square) ![Canva](https://img.shields.io/badge/Canva-F7B801?style=flat-square) ![CapCut](https://img.shields.io/badge/CapCut-C97B3D?style=flat-square) ![GIMP](https://img.shields.io/badge/GIMP-2B2B2B?style=flat-square) ![OBS Studio](https://img.shields.io/badge/OBS_Studio-F7B801?style=flat-square)
 
 **06 · Bahasa Asing**
 <br>
-Bahasa Inggris (dasar) · Bahasa Jepang (dasar)
+![Bahasa Inggris (dasar)](https://img.shields.io/badge/Bahasa_Inggris_(dasar)-C97B3D?style=flat-square) ![Bahasa Jepang (dasar)](https://img.shields.io/badge/Bahasa_Jepang_(dasar)-2B2B2B?style=flat-square)
 
-**Soft Skills:** 🤝 Kerja Sama Tim · ⏱️ Disiplin Waktu · 💬 Komunikasi · 🧩 Problem Solving
+**Soft Skills**
+<br>
+![🤝 Kerja Sama Tim](https://img.shields.io/badge/🤝_Kerja_Sama_Tim-F7B801?style=flat-square) ![⏱️ Disiplin Waktu](https://img.shields.io/badge/⏱️_Disiplin_Waktu-C97B3D?style=flat-square) ![💬 Komunikasi](https://img.shields.io/badge/💬_Komunikasi-2B2B2B?style=flat-square) ![🧩 Problem Solving](https://img.shields.io/badge/🧩_Problem_Solving-F7B801?style=flat-square)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=6&color=F7B801" />
 

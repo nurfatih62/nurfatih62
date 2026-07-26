@@ -14,10 +14,10 @@
 
 ![Tag](https://img.shields.io/badge/🎓_RPL_STUDENT-2B2B2B?style=for-the-badge&labelColor=F7B801&color=2B2B2B)
 
-![Location](https://img.shields.io/badge/📍_YOGYAKARTA-FF4FA3?style=for-the-badge)
+![Location](https://img.shields.io/badge/📍_YOGYAKARTA-C97B3D?style=for-the-badge)
 
 [![Instagram](https://img.shields.io/badge/📸_INSTAGRAM-2B2B2B?style=for-the-badge&labelColor=2B2B2B&color=F7B801)](https://www.instagram.com/nufap26)
-[![Email](https://img.shields.io/badge/✉️_EMAIL-2B2B2B?style=for-the-badge&labelColor=2B2B2B&color=FF4FA3)](mailto:nurfatihaprilando@gmail.com)
+[![Email](https://img.shields.io/badge/✉️_EMAIL-2B2B2B?style=for-the-badge&labelColor=2B2B2B&color=C97B3D)](mailto:nurfatihaprilando@gmail.com)
 
 </div>
 
@@ -52,11 +52,11 @@
 
 **Framework & Mobile**
 <br>
-![Laravel](https://img.shields.io/badge/Laravel-2B2B2B?style=for-the-badge&logo=laravel&logoColor=FF4FA3)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-FF4FA3?style=for-the-badge&logo=codeigniter&logoColor=2B2B2B)
-![Flutter](https://img.shields.io/badge/Flutter-2B2B2B?style=for-the-badge&logo=flutter&logoColor=FF4FA3)
-![React](https://img.shields.io/badge/React-FF4FA3?style=for-the-badge&logo=react&logoColor=2B2B2B)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-2B2B2B?style=for-the-badge&logo=bootstrap&logoColor=FF4FA3)
+![Laravel](https://img.shields.io/badge/Laravel-2B2B2B?style=for-the-badge&logo=laravel&logoColor=C97B3D)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-C97B3D?style=for-the-badge&logo=codeigniter&logoColor=2B2B2B)
+![Flutter](https://img.shields.io/badge/Flutter-2B2B2B?style=for-the-badge&logo=flutter&logoColor=C97B3D)
+![React](https://img.shields.io/badge/React-C97B3D?style=for-the-badge&logo=react&logoColor=2B2B2B)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-2B2B2B?style=for-the-badge&logo=bootstrap&logoColor=C97B3D)
 
 **Design & Tools**
 <br>
@@ -67,8 +67,8 @@
 
 **Hardware & IoT**
 <br>
-![Arduino](https://img.shields.io/badge/Arduino-2B2B2B?style=for-the-badge&logo=arduino&logoColor=FF4FA3)
-![Firebase](https://img.shields.io/badge/Firebase-FF4FA3?style=for-the-badge&logo=firebase&logoColor=2B2B2B)
+![Arduino](https://img.shields.io/badge/Arduino-2B2B2B?style=for-the-badge&logo=arduino&logoColor=C97B3D)
+![Firebase](https://img.shields.io/badge/Firebase-C97B3D?style=for-the-badge&logo=firebase&logoColor=2B2B2B)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=6&color=F7B801" />
 
@@ -76,8 +76,8 @@
 
 ![Kerja Sama Tim](https://img.shields.io/badge/🤝_Kerja_Sama_Tim-2B2B2B?style=for-the-badge&labelColor=2B2B2B&color=F7B801)
 ![Disiplin Waktu](https://img.shields.io/badge/⏱️_Disiplin_Waktu-F7B801?style=for-the-badge&labelColor=F7B801&color=2B2B2B)
-![Komunikasi](https://img.shields.io/badge/💬_Komunikasi-2B2B2B?style=for-the-badge&labelColor=2B2B2B&color=FF4FA3)
-![Problem Solving](https://img.shields.io/badge/🧩_Problem_Solving-FF4FA3?style=for-the-badge&labelColor=FF4FA3&color=2B2B2B)
+![Komunikasi](https://img.shields.io/badge/💬_Komunikasi-2B2B2B?style=for-the-badge&labelColor=2B2B2B&color=C97B3D)
+![Problem Solving](https://img.shields.io/badge/🧩_Problem_Solving-C97B3D?style=for-the-badge&labelColor=C97B3D&color=2B2B2B)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=6&color=2B2B2B" />
 
@@ -111,7 +111,7 @@
 
 ![Repos](https://img.shields.io/badge/📦_PUBLIC_REPOS-23-2B2B2B?style=for-the-badge&labelColor=F7B801&color=2B2B2B)
 ![Followers](https://img.shields.io/github/followers/nurfatih62?style=for-the-badge&label=FOLLOWERS&labelColor=2B2B2B&color=F7B801)
-![Aktif](https://img.shields.io/badge/🔥_AKTIF_BELAJAR-FF4FA3?style=for-the-badge&labelColor=FF4FA3&color=2B2B2B)
+![Aktif](https://img.shields.io/badge/🔥_AKTIF_BELAJAR-C97B3D?style=for-the-badge&labelColor=C97B3D&color=2B2B2B)
 ![Berkembang](https://img.shields.io/badge/🌱_TERUS_BERKEMBANG-2B2B2B?style=for-the-badge&labelColor=2B2B2B&color=F7B801)
 
 <div align="center">

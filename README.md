@@ -16,8 +16,6 @@
 [![Email](https://img.shields.io/badge/✉️_EMAIL-2B2B2B?style=for-the-badge&labelColor=2B2B2B&color=C97B3D)](mailto:nurfatihaprilando@gmail.com)
 [![Portfolio](https://img.shields.io/badge/🌐_PORTOFOLIO-2B2B2B?style=for-the-badge&labelColor=F7B801&color=2B2B2B)](https://nurfatih.vercel.app)
 
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=6&color=F7B801" />
 
 ## 🗂️ Tentang Aku
@@ -74,19 +72,15 @@ Developer muda dari Yogyakarta yang lagi menempuh jurusan RPL/PPLG. Terbiasa mem
 ![Repos](https://img.shields.io/badge/📦_23_REPOS-2B2B2B?style=for-the-badge&labelColor=F7B801&color=2B2B2B)
 ![Followers](https://img.shields.io/github/followers/nurfatih62?style=for-the-badge&label=FOLLOWERS&labelColor=2B2B2B&color=F7B801)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nurfatih62/nurfatih62/languages-output/languages.svg?locale=en&layout=compact&card_width=320&langs_count=5&bg_color=2B2B2B&title_color=F7B801&text_color=F5E6C8&hide_border=true" height="140" alt="languages graph" />
-  <br>
-  <img src="https://raw.githubusercontent.com/nurfatih62/nurfatih62/snake-output/snake.svg" alt="Snake animation" width="100%" />
-  <br>
-  <a href="https://open.spotify.com/user/3142o22uk35mfsai4hrl7bjkjsrm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3142o22uk35mfsai4hrl7bjkjsrm&count=3&bg_color=2B2B2B" alt="Spotify Recently Played" />
-  </a>
-</div>
+<img src="https://raw.githubusercontent.com/nurfatih62/nurfatih62/languages-output/languages.svg?locale=en&layout=compact&card_width=320&langs_count=5&bg_color=2B2B2B&title_color=F7B801&text_color=F5E6C8&hide_border=true" height="140" alt="languages graph" />
+<br>
+<img src="https://raw.githubusercontent.com/nurfatih62/nurfatih62/snake-output/snake.svg" alt="Snake animation" width="100%" />
+<br>
+<a href="https://open.spotify.com/user/3142o22uk35mfsai4hrl7bjkjsrm">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=3142o22uk35mfsai4hrl7bjkjsrm&count=3&bg_color=2B2B2B" alt="Spotify Recently Played" />
+</a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=2B2B2B" />
-
-<div align="center">
 
 ✨ <i>"belajar cepat, ngoding cepat"</i> ✨
 

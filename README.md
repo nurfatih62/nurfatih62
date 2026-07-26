@@ -89,7 +89,7 @@ Developer muda dari Indonesia yang lagi menempuh jurusan RPL/PPLG. Terbiasa memb
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=2B2B2B" />
 
-✨ <i>"terus belajar, terus berkarya"</i> ✨
+✨ <i>"dari mencoba, jadi tahu"</i> ✨
 
 <img src="https://komarev.com/ghpvc/?username=nurfatih62&style=for-the-badge&color=F7B801&label=PROFILE+VIEWS" alt="profile views" />
 

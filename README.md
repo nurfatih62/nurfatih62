@@ -2,85 +2,86 @@
 
 <img src="img/NURFATIH621.png" alt="Nur Fatih Aprilando Banner" width="100%" />
 
-<br>
+<br><br>
 
-![File No](https://img.shields.io/badge/FILE_NO.-062-2B2B2B?style=for-the-badge&labelColor=F7B801)
-![Kelas](https://img.shields.io/badge/RPL-PPLG-2B2B2B?style=for-the-badge&labelColor=F7B801)
-![Status](https://img.shields.io/badge/STATUS-CALON_PESERTA_PKL-2B2B2B?style=for-the-badge&labelColor=F7B801)
+<img src="https://github.com/nurfatih62.png" width="90" style="border-radius:50%" alt="avatar" />
 
-<br>
+### 🎓 Hai, Aku Fatih! 👋
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+%26+Mobile+Developer;Laravel+%7C+Flutter+%7C+React;Sedang+Mencari+Kesempatan+PKL+2026&font=Fira+Code&center=true&width=520&height=40&color=F7B801&vCenter=true&size=20" alt="typing svg" />
+**Nur Fatih Aprilando**
 
-<sub>✂️ <i>"belajar cepat, ngoding cepat" — 2026</i> ✂️</sub>
+<i>Suka ngoding, ikut kompetisi UI/UX, sama ngoprek Arduino 🧑‍💻</i>
+
+![Tag](https://img.shields.io/badge/🎓_RPL_STUDENT-2B2B2B?style=for-the-badge&labelColor=F7B801&color=2B2B2B)
+
+![Location](https://img.shields.io/badge/📍_YOGYAKARTA-FF4FA3?style=for-the-badge)
+
+[![Instagram](https://img.shields.io/badge/📸_INSTAGRAM-2B2B2B?style=for-the-badge&labelColor=2B2B2B&color=F7B801)](https://www.instagram.com/nufap26)
+[![Email](https://img.shields.io/badge/✉️_EMAIL-2B2B2B?style=for-the-badge&labelColor=2B2B2B&color=FF4FA3)](mailto:nurfatihaprilando@gmail.com)
 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=6&color=F7B801" />
 
-## 🗂️ Berkas 01 — Tentang Saya
+## 🗂️ Tentang Aku
 
-> Halo, saya **Nur Fatih Aprilando** — developer muda asal **Yogyakarta**, kelas 12 jurusan **RPL/PPLG** di SMK Muhammadiyah 4 Yogyakarta (2024–sekarang). Terbiasa membangun sistem web & mobile dari nol sampai rilis: REST API, role-based access control, sampai antarmuka yang enak dipakai. Aktif ikut kompetisi UI/UX Design & Web Development, dan sekarang sedang mencari kesempatan **Praktik Kerja Lapangan (PKL)** di bidang pengembangan perangkat lunak.
-
-| 🎓 Pendidikan | 📍 Domisili | 🧭 Status |
-|---|---|---|
-| SMK Muhammadiyah 4 Yogyakarta — RPL/PPLG | Kasihan, Bantul, Yogyakarta | Mencari kesempatan PKL |
-
-🌐 Portofolio: **[nurfatih.vercel.app](https://nurfatih.vercel.app)** &nbsp;·&nbsp; 🐙 GitHub: **[@nurfatih62](https://github.com/nurfatih62)** — 23 repos
+| | |
+|---|---|
+| 🏷️ **Nama** | Nur Fatih Aprilando |
+| 💬 **Panggilan** | Fatih |
+| 🏫 **Sekolah** | SMK Muhammadiyah 4 Yogyakarta |
+| 📚 **Jurusan** | RPL / PPLG (Pengembangan Perangkat Lunak & Gim) |
+| 📍 **Domisili** | Kasihan, Bantul, Yogyakarta |
+| 🧭 **Status** | Mencari kesempatan PKL |
+| 🚧 **Sedang** | Ngembangin *Sistem Keuangan Cerdas* berbasis AI |
+| 💡 **Bisa** | Bangun sistem web & mobile dari nol sampai rilis |
+| ❤️ **Suka** | Ngoding, ikut kompetisi tech, dengerin musik |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=6&color=2B2B2B" />
 
-## 📸 Berkas 02 — Keahlian Teknis
+## 🧠 Tech Stack
 
-<div align="center">
-
-**🔤 Bahasa Pemrograman**
+**Programming & Database**
 <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" title="PHP" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" title="JavaScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" title="Python" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" title="C++" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" title="C#" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" title="Java" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="35" title="Dart" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" title="HTML5" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" title="CSS3" />
+![PHP](https://img.shields.io/badge/PHP-2B2B2B?style=for-the-badge&logo=php&logoColor=F7B801)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7B801?style=for-the-badge&logo=javascript&logoColor=2B2B2B)
+![Python](https://img.shields.io/badge/Python-2B2B2B?style=for-the-badge&logo=python&logoColor=F7B801)
+![C++](https://img.shields.io/badge/C++-F7B801?style=for-the-badge&logo=cplusplus&logoColor=2B2B2B)
+![Java](https://img.shields.io/badge/Java-2B2B2B?style=for-the-badge&logo=openjdk&logoColor=F7B801)
+![MySQL](https://img.shields.io/badge/MySQL-F7B801?style=for-the-badge&logo=mysql&logoColor=2B2B2B)
 
-**🧱 Framework & Library**
+**Framework & Mobile**
 <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="35" title="Laravel" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="35" title="CodeIgniter" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" title="Flutter" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" title="React" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" title="Bootstrap" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="35" title="Composer" />
+![Laravel](https://img.shields.io/badge/Laravel-2B2B2B?style=for-the-badge&logo=laravel&logoColor=FF4FA3)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-FF4FA3?style=for-the-badge&logo=codeigniter&logoColor=2B2B2B)
+![Flutter](https://img.shields.io/badge/Flutter-2B2B2B?style=for-the-badge&logo=flutter&logoColor=FF4FA3)
+![React](https://img.shields.io/badge/React-FF4FA3?style=for-the-badge&logo=react&logoColor=2B2B2B)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-2B2B2B?style=for-the-badge&logo=bootstrap&logoColor=FF4FA3)
 
-**🗄️ Database & Platform**
+**Design & Tools**
 <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" title="MySQL" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" title="Firebase" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="35" title="Vercel" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35" title="Arduino" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="35" title="Google APIs" />
+![Figma](https://img.shields.io/badge/Figma-2B2B2B?style=for-the-badge&logo=figma&logoColor=F7B801)
+![Canva](https://img.shields.io/badge/Canva-F7B801?style=for-the-badge&logo=canva&logoColor=2B2B2B)
+![Git](https://img.shields.io/badge/Git-2B2B2B?style=for-the-badge&logo=git&logoColor=F7B801)
+![VSCode](https://img.shields.io/badge/VS_Code-F7B801?style=for-the-badge&logo=visualstudiocode&logoColor=2B2B2B)
 
-**🛠️ Tools & Version Control**
+**Hardware & IoT**
 <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" title="Git" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" title="GitHub" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" title="VS Code" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="35" title="Android Studio" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" title="Linux" />
-
-**🎨 Desain & Multimedia**
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" title="Figma" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="35" title="GIMP" />
-
-</div>
+![Arduino](https://img.shields.io/badge/Arduino-2B2B2B?style=for-the-badge&logo=arduino&logoColor=FF4FA3)
+![Firebase](https://img.shields.io/badge/Firebase-FF4FA3?style=for-the-badge&logo=firebase&logoColor=2B2B2B)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=6&color=F7B801" />
 
-## 🏷️ Berkas 03 — Proyek Portofolio
+## 🌱 Soft Skills
+
+![Kerja Sama Tim](https://img.shields.io/badge/🤝_Kerja_Sama_Tim-2B2B2B?style=for-the-badge&labelColor=2B2B2B&color=F7B801)
+![Disiplin Waktu](https://img.shields.io/badge/⏱️_Disiplin_Waktu-F7B801?style=for-the-badge&labelColor=F7B801&color=2B2B2B)
+![Komunikasi](https://img.shields.io/badge/💬_Komunikasi-2B2B2B?style=for-the-badge&labelColor=2B2B2B&color=FF4FA3)
+![Problem Solving](https://img.shields.io/badge/🧩_Problem_Solving-FF4FA3?style=for-the-badge&labelColor=FF4FA3&color=2B2B2B)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=6&color=2B2B2B" />
+
+## 🏷️ Proyek Portofolio
 
 | Proyek | Stack | Deskripsi Singkat |
 |---|---|---|
@@ -91,11 +92,9 @@
 
 📎 Detail lengkap tiap proyek ada di [portofolio saya](https://nurfatih.vercel.app).
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=6&color=2B2B2B" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=6&color=F7B801" />
 
-## 🏆 Berkas 04 — Prestasi & Kompetisi
-
-<div align="center">
+## 🏆 Prestasi & Kompetisi
 
 | Kompetisi | Hasil |
 |---|:---:|
@@ -106,11 +105,14 @@
 | LKS DIY 2025 — IT Software Solution for Business | 🎖️ Peserta |
 | INCEPTION 2025 — Univ. Trisakti *(Nasional)* | 🎖️ Peserta |
 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=6&color=2B2B2B" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=6&color=F7B801" />
+## 💻 GitHub Activity
 
-## 📊 Berkas 05 — GitHub Stats & Musik
+![Repos](https://img.shields.io/badge/📦_PUBLIC_REPOS-23-2B2B2B?style=for-the-badge&labelColor=F7B801&color=2B2B2B)
+![Followers](https://img.shields.io/github/followers/nurfatih62?style=for-the-badge&label=FOLLOWERS&labelColor=2B2B2B&color=F7B801)
+![Aktif](https://img.shields.io/badge/🔥_AKTIF_BELAJAR-FF4FA3?style=for-the-badge&labelColor=FF4FA3&color=2B2B2B)
+![Berkembang](https://img.shields.io/badge/🌱_TERUS_BERKEMBANG-2B2B2B?style=for-the-badge&labelColor=2B2B2B&color=F7B801)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/nurfatih62/nurfatih62/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=2B2B2B&title_color=F7B801&text_color=F5E6C8&hide_border=true&order=2" height="150" alt="languages graph" />
@@ -126,9 +128,9 @@
   </a>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=6&color=2B2B2B" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=6&color=F7B801" />
 
-## ✈️ Berkas 06 — Hubungi Saya
+## ✈️ Hubungi Saya
 
 <div align="center">
 
@@ -144,5 +146,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=2B2B2B" />
 
 <div align="center">
+
+✨ <i>"belajar cepat, ngoding cepat"</i> ✨
+
+<img src="https://komarev.com/ghpvc/?username=nurfatih62&style=for-the-badge&color=F7B801&label=PROFILE+VIEWS" alt="profile views" />
+
 <sub>🧵 YOGYAKARTA → THE WEB · RPL · 062 · © 2026 NUR FATIH APRILANDO 🧵</sub>
+
 </div>

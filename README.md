@@ -22,26 +22,35 @@
 
 ## 🗂️ Tentang Aku
 
-| | |
-|---|---|
-| 🏫 **Sekolah** | SMK Muhammadiyah 4 Yogyakarta — RPL/PPLG |
-| 📍 **Domisili** | Kasihan, Bantul, Yogyakarta |
-| 🚧 **Sedang** | Ngembangin *Sistem Keuangan Cerdas* berbasis AI |
-| 💡 **Bisa** | Bangun sistem web & mobile dari nol sampai rilis |
+Developer muda dari Yogyakarta yang lagi menempuh jurusan RPL/PPLG. Terbiasa membangun sistem web & mobile dari nol sampai rilis, dan sekarang lagi cari kesempatan PKL di bidang pengembangan perangkat lunak.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=6&color=2B2B2B" />
 
-## 🧠 Tech Stack
+## 🧠 Keahlian Teknis
 
-![PHP](https://img.shields.io/badge/PHP-2B2B2B?style=for-the-badge&logo=php&logoColor=F7B801)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7B801?style=for-the-badge&logo=javascript&logoColor=2B2B2B)
-![Laravel](https://img.shields.io/badge/Laravel-2B2B2B?style=for-the-badge&logo=laravel&logoColor=C97B3D)
-![Flutter](https://img.shields.io/badge/Flutter-C97B3D?style=for-the-badge&logo=flutter&logoColor=2B2B2B)
-![React](https://img.shields.io/badge/React-2B2B2B?style=for-the-badge&logo=react&logoColor=F7B801)
-![MySQL](https://img.shields.io/badge/MySQL-F7B801?style=for-the-badge&logo=mysql&logoColor=2B2B2B)
-![Figma](https://img.shields.io/badge/Figma-2B2B2B?style=for-the-badge&logo=figma&logoColor=C97B3D)
-![Arduino](https://img.shields.io/badge/Arduino-C97B3D?style=for-the-badge&logo=arduino&logoColor=2B2B2B)
-![Git](https://img.shields.io/badge/Git-2B2B2B?style=for-the-badge&logo=git&logoColor=F7B801)
+**01 · Bahasa Pemrograman**
+<br>
+PHP · JavaScript · Python · C++ / C# · Java · Dart · HTML5 / CSS3
+
+**02 · Framework & Library**
+<br>
+Laravel 12 · CodeIgniter 4 · Flutter · React · Bootstrap
+
+**03 · Database & Platform**
+<br>
+MySQL · Firebase · Supabase · Vercel · Google APIs · Arduino (IoT)
+
+**04 · Tools & Version Control**
+<br>
+Git & GitHub · Visual Studio Code · Android Studio · Windows · Linux Mint (dasar)
+
+**05 · Desain & Multimedia**
+<br>
+UI/UX Design · Figma · Canva · CapCut · GIMP · OBS Studio
+
+**06 · Bahasa Asing**
+<br>
+Bahasa Inggris (dasar) · Bahasa Jepang (dasar)
 
 **Soft Skills:** 🤝 Kerja Sama Tim · ⏱️ Disiplin Waktu · 💬 Komunikasi · 🧩 Problem Solving
 
@@ -57,14 +66,6 @@
 | 🤖 **Sistem Keuangan Cerdas** \`on progress\` | Laravel + AI | Catat transaksi cukup 1 kalimat, AI yang mengelompokkan kategorinya. |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=6&color=2B2B2B" />
-
-## 🏆 Prestasi
-
-🥇 Juara 1 UI/UX — CreateIn 2026 (UAD) &nbsp;·&nbsp; 🥉 Perunggu Nasional — Olympic Ahmad Dahlan VIII 2026 &nbsp;·&nbsp; 🥉 Juara 3 IoT — AMICTA 2025 &nbsp;·&nbsp; 🥉 Juara 3 Foto — History Week 2025
-
-<sub>Peserta LKS DIY 2025 & INCEPTION 2025 (Univ. Trisakti)</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=6&color=F7B801" />
 
 ## 💻 GitHub & Musik
 
